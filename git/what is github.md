@@ -11,3 +11,10 @@ git remote add origin https://github.com/mcchotaliya2005-jpg/ds-da-mwf-3pm.git
 git push -u origin main
 
 ```
+
+# how to download github backup
+** commands**
+
+```
+git clone https://github.com/mcchotaliya2005-jpg/ds-da-mwf-3pm.git
+```
